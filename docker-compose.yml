@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  testabc:
-    image: testabc
-    build:
-      context: .
-      dockerfile: ./Dockerfile
